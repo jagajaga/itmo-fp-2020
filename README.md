@@ -47,7 +47,7 @@ https://github.com/jagajaga/fp-homework-templates-2020
 Subject: ДЗX
 Body:
 https://github.com/jagajaga/fp-homework-templates/commit/aefa5b04cce75323ce89825e3820cdea58841e8a
-Иванов Иван, группа 333X
+Иванов Иван, группа 333Y
 ```
 где `X` - это номер домашнего задания (0, 1, 2, ...).
 Отправить письмо необходимо до истечения дедлайна по домашнему заданию.
