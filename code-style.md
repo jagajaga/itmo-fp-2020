@@ -8,7 +8,7 @@ small as possible.
 We provide some configuration files for popular tools that help maintain code
 style:
 
-  - [`stylish-haskell` config][stylish-haskell]
+  - [`stylish-haskell` config](https://github.com/jagajaga/itmo-fp-2020/blob/master/.stylish-haskell.yaml)
   - [`hlint` config][hlint]
   - [`hlint`
     config](https://github.com/serokell/universum/blob/master/.hlint.yaml)
@@ -236,7 +236,7 @@ sparingly. We recommend adding a link to an API name if:
 ### LANGUAGE extensions section
 
 Write each `LANGUAGE` pragma on its own line, sort them alphabetically and align
-by max width among them. `stylish-haskell` with [our config][stylish-haskell]
+by max width among them. `stylish-haskell` with [our config](https://github.com/jagajaga/itmo-fp-2020/blob/master/.stylish-haskell.yaml)
 can do this for you.
 
 ``` haskell
