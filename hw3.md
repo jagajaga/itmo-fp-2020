@@ -12,7 +12,7 @@
 plus          :: Point -> Point -> Point
 minus         :: Point -> Point -> Point
 scalarProduct :: Point -> Point -> Int
-crossProduct  :: Point -> Point -> Int
+crossProduct  :: Point -> Point -> Point
 ```
 
 Затем реализуйте функции, которые принимают на вход многоугольник без самопересечений, заданный координатами его вершин в порядке против часовой стрелки. Многоугольник может быть как выпуклый, так и не выпуклый.
